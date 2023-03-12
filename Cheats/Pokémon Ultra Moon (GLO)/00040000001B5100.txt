@@ -1,5 +1,3 @@
-
-
 [Fast Treasure Hunt v1.2]
 0044E538 E3A04000
 0044E53C E5C34000
@@ -24,10 +22,10 @@
 [QR Scan is 100 Points v1.2]
 004555A0 E3510000
 
-[Always UB Wormhole v1.2]
+[Always UB Wormhole v1.2] (Only sometimes works)
 002DD36C E3A01000
 
-[Always Rainbow Pelago Beans v1.2]
+[Always Rainbow Pelago Beans v1.2] (Crashes game 99% of the time)
 0044DEC0 E3A0600E
 
 [PP Not Decrease v1.2]
@@ -148,7 +146,7 @@ D3000000 00000000
 08021928 EBFB1064
 D0000000 00000000
 
-[Egg Instant Hatch v1.2]
+[Egg Instant Hatch v1.2] (Can cause Bad Egg Glitch, can also cause game to crash)
 005BBE40 E59D000C
 005BBE44 E59F500C
 005BBE48 E1500005
@@ -158,7 +156,7 @@ D0000000 00000000
 005BBE58 00704650
 004AF604 EB04320D
 
-[Mega evolution does not cancel after battle v1.2]
+[Mega evolution does not cancel after battle v1.2] (Causes game to crash 50% of the time)
 005BBC54 E59D6020
 E05BBC58 00000048
 E28F901C E499A004
@@ -224,7 +222,7 @@ D0000000 00000000
 005BBEC0 0070C62C
 004ACD2C EB043C5B
 
-[Catch Trainer's Pokemon v1.2]
+[Catch Trainer's Pokemon v1.2] (Can cause Bad Egg Glitch and also can cause game to crash depending on the trianer)
 005BBE60 E1A04000
 005BBE64 E92D4003
 005BBE68 E59D0028
@@ -238,7 +236,7 @@ D0000000 00000000
 005BBE88 0070BC2C
 0045D80C EB057993
 
-[Can throw Pokeball at Trial v1.2]
+[Can throw Pokeball at Trial v1.2] (Can cause Bad Egg Glitch)
 580BC8AC E1A01004
 50669014 00000000
 00669014 00000010
@@ -284,7 +282,7 @@ DD000000 00000008
 004AF71C EAFFFCDE
 D2000000 00000000
 
-[Can use mega evolution multiple times in a fight v1.2]
+[Can use mega evolution multiple times in a fight v1.2] (Can cause game to crash)
 580A6150 E12FFF32
 50669024 00000000
 00669024 00000010
